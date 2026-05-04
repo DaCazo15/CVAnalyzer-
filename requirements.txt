@@ -1,0 +1,9 @@
+pyPDF2
+pydantic
+langchain
+langchain-core
+langchain-groq
+python-dotenv
+dotenv
+streamlit
+reportlab
