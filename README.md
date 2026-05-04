@@ -1,4 +1,4 @@
-# 📄 Análisis de CV con IA
+# CVAnalyzer 
 
 Aplicación web para analizar currículums vitae de forma automática utilizando inteligencia artificial. Permite cargar un CV en formato PDF y obtener un análisis detallado generado por un modelo de lenguaje (LLM) a través de Groq.
 
